@@ -1,0 +1,86 @@
+2021-02-11 17:06:00  [ main-SendThread(losedream.com:2181):14664 ] - [ INFO ]  Opening socket connection to server losedream.com/8.136.188.16:2181. Will not attempt to authenticate using SASL (unknown error)
+2021-02-11 17:06:00  [ main-SendThread(losedream.com:2181):14690 ] - [ INFO ]  Socket connection established to losedream.com/8.136.188.16:2181, initiating session
+2021-02-11 17:06:00  [ main-SendThread(losedream.com:2181):14691 ] - [ DEBUG ]  Session establishment request sent on losedream.com/8.136.188.16:2181
+2021-02-11 17:06:00  [ main-SendThread(losedream.com:2181):14707 ] - [ INFO ]  Unable to read additional data from server sessionid 0x1001e5fe5c30007, likely server has closed socket, closing socket connection and attempting reconnect
+2021-02-11 17:06:00  [ main-SendThread(losedream.com:2181):14707 ] - [ INFO ]  Session establishment complete on server losedream.com/8.136.188.16:2181, sessionid = 0x1001e5fe5c30007, negotiated timeout = 5000
+2021-02-11 17:06:01  [ main-SendThread(losedream.com:2181):16309 ] - [ INFO ]  Opening socket connection to server losedream.com/8.136.188.16:2181. Will not attempt to authenticate using SASL (unknown error)
+2021-02-11 17:06:01  [ main-SendThread(losedream.com:2181):16322 ] - [ INFO ]  Socket connection established to losedream.com/8.136.188.16:2181, initiating session
+2021-02-11 17:06:01  [ main-SendThread(losedream.com:2181):16322 ] - [ DEBUG ]  Session establishment request sent on losedream.com/8.136.188.16:2181
+2021-02-11 17:06:01  [ main-SendThread(losedream.com:2181):16336 ] - [ INFO ]  Unable to read additional data from server sessionid 0x1001e5fe5c30007, likely server has closed socket, closing socket connection and attempting reconnect
+2021-02-11 17:06:01  [ main-SendThread(losedream.com:2181):16339 ] - [ INFO ]  Session establishment complete on server losedream.com/8.136.188.16:2181, sessionid = 0x1001e5fe5c30007, negotiated timeout = 5000
+2021-02-11 17:06:02  [ main-SendThread(losedream.com:2181):17589 ] - [ INFO ]  Opening socket connection to server losedream.com/8.136.188.16:2181. Will not attempt to authenticate using SASL (unknown error)
+2021-02-11 17:06:03  [ main-SendThread(losedream.com:2181):17623 ] - [ INFO ]  Socket connection established to losedream.com/8.136.188.16:2181, initiating session
+2021-02-11 17:06:03  [ main-SendThread(losedream.com:2181):17623 ] - [ DEBUG ]  Session establishment request sent on losedream.com/8.136.188.16:2181
+2021-02-11 17:06:03  [ main-SendThread(losedream.com:2181):17636 ] - [ INFO ]  Session establishment complete on server losedream.com/8.136.188.16:2181, sessionid = 0x1001e5fe5c30007, negotiated timeout = 5000
+2021-02-11 17:06:03  [ main-SendThread(losedream.com:2181):17638 ] - [ INFO ]  Unable to read additional data from server sessionid 0x1001e5fe5c30007, likely server has closed socket, closing socket connection and attempting reconnect
+2021-02-11 17:06:04  [ main-SendThread(losedream.com:2181):19078 ] - [ INFO ]  Opening socket connection to server losedream.com/8.136.188.16:2181. Will not attempt to authenticate using SASL (unknown error)
+2021-02-11 17:06:04  [ main-SendThread(losedream.com:2181):19093 ] - [ INFO ]  Socket connection established to losedream.com/8.136.188.16:2181, initiating session
+2021-02-11 17:06:04  [ main-SendThread(losedream.com:2181):19093 ] - [ DEBUG ]  Session establishment request sent on losedream.com/8.136.188.16:2181
+2021-02-11 17:06:04  [ main-SendThread(losedream.com:2181):19222 ] - [ INFO ]  Unable to read additional data from server sessionid 0x1001e5fe5c30007, likely server has closed socket, closing socket connection and attempting reconnect
+2021-02-11 17:06:04  [ main-SendThread(losedream.com:2181):19222 ] - [ INFO ]  Session establishment complete on server losedream.com/8.136.188.16:2181, sessionid = 0x1001e5fe5c30007, negotiated timeout = 5000
+2021-02-11 17:06:05  [ main-SendThread(losedream.com:2181):20477 ] - [ INFO ]  Opening socket connection to server losedream.com/8.136.188.16:2181. Will not attempt to authenticate using SASL (unknown error)
+2021-02-11 17:06:05  [ main-SendThread(losedream.com:2181):20492 ] - [ INFO ]  Socket connection established to losedream.com/8.136.188.16:2181, initiating session
+2021-02-11 17:06:05  [ main-SendThread(losedream.com:2181):20492 ] - [ DEBUG ]  Session establishment request sent on losedream.com/8.136.188.16:2181
+2021-02-11 17:06:05  [ main-SendThread(losedream.com:2181):20506 ] - [ INFO ]  Session establishment complete on server losedream.com/8.136.188.16:2181, sessionid = 0x1001e5fe5c30007, negotiated timeout = 5000
+2021-02-11 17:06:05  [ main-SendThread(losedream.com:2181):20506 ] - [ INFO ]  Unable to read additional data from server sessionid 0x1001e5fe5c30007, likely server has closed socket, closing socket connection and attempting reconnect
+2021-02-11 17:06:07  [ main-SendThread(losedream.com:2181):22172 ] - [ DEBUG ]  Got ping response for sessionid: 0x1001e5fe5c30007 after 13ms
+2021-02-11 17:06:07  [ main-SendThread(losedream.com:2181):22412 ] - [ INFO ]  Opening socket connection to server losedream.com/8.136.188.16:2181. Will not attempt to authenticate using SASL (unknown error)
+2021-02-11 17:06:07  [ main-SendThread(losedream.com:2181):22447 ] - [ INFO ]  Socket connection established to losedream.com/8.136.188.16:2181, initiating session
+2021-02-11 17:06:07  [ main-SendThread(losedream.com:2181):22447 ] - [ DEBUG ]  Session establishment request sent on losedream.com/8.136.188.16:2181
+2021-02-11 17:06:07  [ main-SendThread(losedream.com:2181):22460 ] - [ INFO ]  Unable to read additional data from server sessionid 0x1001e5fe5c30007, likely server has closed socket, closing socket connection and attempting reconnect
+2021-02-11 17:06:07  [ main-SendThread(losedream.com:2181):22463 ] - [ INFO ]  Session establishment complete on server losedream.com/8.136.188.16:2181, sessionid = 0x1001e5fe5c30007, negotiated timeout = 5000
+2021-02-11 17:06:09  [ main-SendThread(losedream.com:2181):23659 ] - [ INFO ]  Opening socket connection to server losedream.com/8.136.188.16:2181. Will not attempt to authenticate using SASL (unknown error)
+2021-02-11 17:06:09  [ main-SendThread(losedream.com:2181):23680 ] - [ INFO ]  Socket connection established to losedream.com/8.136.188.16:2181, initiating session
+2021-02-11 17:06:09  [ main-SendThread(losedream.com:2181):23680 ] - [ DEBUG ]  Session establishment request sent on losedream.com/8.136.188.16:2181
+2021-02-11 17:06:09  [ main-SendThread(losedream.com:2181):23699 ] - [ INFO ]  Unable to read additional data from server sessionid 0x1001e5fe5c30007, likely server has closed socket, closing socket connection and attempting reconnect
+2021-02-11 17:06:09  [ main-SendThread(losedream.com:2181):23699 ] - [ INFO ]  Session establishment complete on server losedream.com/8.136.188.16:2181, sessionid = 0x1001e5fe5c30007, negotiated timeout = 5000
+2021-02-11 17:06:10  [ main-SendThread(losedream.com:2181):25181 ] - [ INFO ]  Opening socket connection to server losedream.com/8.136.188.16:2181. Will not attempt to authenticate using SASL (unknown error)
+2021-02-11 17:06:10  [ main-SendThread(losedream.com:2181):25193 ] - [ INFO ]  Socket connection established to losedream.com/8.136.188.16:2181, initiating session
+2021-02-11 17:06:10  [ main-SendThread(losedream.com:2181):25193 ] - [ DEBUG ]  Session establishment request sent on losedream.com/8.136.188.16:2181
+2021-02-11 17:06:10  [ main-SendThread(losedream.com:2181):25210 ] - [ INFO ]  Unable to read additional data from server sessionid 0x1001e5fe5c30007, likely server has closed socket, closing socket connection and attempting reconnect
+2021-02-11 17:06:10  [ main-SendThread(losedream.com:2181):25218 ] - [ INFO ]  Session establishment complete on server losedream.com/8.136.188.16:2181, sessionid = 0x1001e5fe5c30007, negotiated timeout = 5000
+2021-02-11 17:06:12  [ main-SendThread(losedream.com:2181):26871 ] - [ DEBUG ]  Got ping response for sessionid: 0x1001e5fe5c30007 after 12ms
+2021-02-11 17:06:12  [ main-SendThread(losedream.com:2181):26900 ] - [ INFO ]  Opening socket connection to server losedream.com/8.136.188.16:2181. Will not attempt to authenticate using SASL (unknown error)
+2021-02-11 17:06:12  [ main-SendThread(losedream.com:2181):26913 ] - [ INFO ]  Socket connection established to losedream.com/8.136.188.16:2181, initiating session
+2021-02-11 17:06:12  [ main-SendThread(losedream.com:2181):26914 ] - [ DEBUG ]  Session establishment request sent on losedream.com/8.136.188.16:2181
+2021-02-11 17:06:12  [ main-SendThread(losedream.com:2181):26933 ] - [ INFO ]  Unable to read additional data from server sessionid 0x1001e5fe5c30007, likely server has closed socket, closing socket connection and attempting reconnect
+2021-02-11 17:06:12  [ main-SendThread(losedream.com:2181):26933 ] - [ INFO ]  Session establishment complete on server losedream.com/8.136.188.16:2181, sessionid = 0x1001e5fe5c30007, negotiated timeout = 5000
+2021-02-11 17:06:13  [ main-SendThread(losedream.com:2181):28592 ] - [ DEBUG ]  Got ping response for sessionid: 0x1001e5fe5c30007 after 11ms
+2021-02-11 17:06:14  [ main-SendThread(losedream.com:2181):28634 ] - [ INFO ]  Opening socket connection to server losedream.com/8.136.188.16:2181. Will not attempt to authenticate using SASL (unknown error)
+2021-02-11 17:06:14  [ main-SendThread(losedream.com:2181):28656 ] - [ INFO ]  Socket connection established to losedream.com/8.136.188.16:2181, initiating session
+2021-02-11 17:06:14  [ main-SendThread(losedream.com:2181):28656 ] - [ DEBUG ]  Session establishment request sent on losedream.com/8.136.188.16:2181
+2021-02-11 17:06:14  [ main-SendThread(losedream.com:2181):28689 ] - [ INFO ]  Session establishment complete on server losedream.com/8.136.188.16:2181, sessionid = 0x1001e5fe5c30007, negotiated timeout = 5000
+2021-02-11 17:06:14  [ main-SendThread(losedream.com:2181):28689 ] - [ INFO ]  Unable to read additional data from server sessionid 0x1001e5fe5c30007, likely server has closed socket, closing socket connection and attempting reconnect
+2021-02-11 17:06:15  [ main-SendThread(losedream.com:2181):29978 ] - [ INFO ]  Opening socket connection to server losedream.com/8.136.188.16:2181. Will not attempt to authenticate using SASL (unknown error)
+2021-02-11 17:06:15  [ main-SendThread(losedream.com:2181):29993 ] - [ INFO ]  Socket connection established to losedream.com/8.136.188.16:2181, initiating session
+2021-02-11 17:06:15  [ main-SendThread(losedream.com:2181):29993 ] - [ DEBUG ]  Session establishment request sent on losedream.com/8.136.188.16:2181
+2021-02-11 17:06:15  [ main-SendThread(losedream.com:2181):30006 ] - [ INFO ]  Unable to read additional data from server sessionid 0x1001e5fe5c30007, likely server has closed socket, closing socket connection and attempting reconnect
+2021-02-11 17:06:15  [ main-SendThread(losedream.com:2181):30009 ] - [ INFO ]  Session establishment complete on server losedream.com/8.136.188.16:2181, sessionid = 0x1001e5fe5c30007, negotiated timeout = 5000
+2021-02-11 17:06:17  [ main-SendThread(losedream.com:2181):31679 ] - [ DEBUG ]  Got ping response for sessionid: 0x1001e5fe5c30007 after 19ms
+2021-02-11 17:06:17  [ main-SendThread(losedream.com:2181):31961 ] - [ INFO ]  Opening socket connection to server losedream.com/8.136.188.16:2181. Will not attempt to authenticate using SASL (unknown error)
+2021-02-11 17:06:17  [ main-SendThread(losedream.com:2181):31982 ] - [ INFO ]  Socket connection established to losedream.com/8.136.188.16:2181, initiating session
+2021-02-11 17:06:17  [ main-SendThread(losedream.com:2181):31983 ] - [ DEBUG ]  Session establishment request sent on losedream.com/8.136.188.16:2181
+2021-02-11 17:06:17  [ main-SendThread(losedream.com:2181):32000 ] - [ INFO ]  Unable to read additional data from server sessionid 0x1001e5fe5c30007, likely server has closed socket, closing socket connection and attempting reconnect
+2021-02-11 17:06:17  [ main-SendThread(losedream.com:2181):32000 ] - [ INFO ]  Session establishment complete on server losedream.com/8.136.188.16:2181, sessionid = 0x1001e5fe5c30007, negotiated timeout = 5000
+2021-02-11 17:06:19  [ main-SendThread(losedream.com:2181):33665 ] - [ DEBUG ]  Got ping response for sessionid: 0x1001e5fe5c30007 after 14ms
+2021-02-11 17:06:19  [ main-SendThread(losedream.com:2181):33864 ] - [ INFO ]  Opening socket connection to server losedream.com/8.136.188.16:2181. Will not attempt to authenticate using SASL (unknown error)
+2021-02-11 17:06:19  [ main-SendThread(losedream.com:2181):33880 ] - [ INFO ]  Socket connection established to losedream.com/8.136.188.16:2181, initiating session
+2021-02-11 17:06:19  [ main-SendThread(losedream.com:2181):33881 ] - [ DEBUG ]  Session establishment request sent on losedream.com/8.136.188.16:2181
+2021-02-11 17:06:19  [ main-SendThread(losedream.com:2181):33894 ] - [ INFO ]  Session establishment complete on server losedream.com/8.136.188.16:2181, sessionid = 0x1001e5fe5c30007, negotiated timeout = 5000
+2021-02-11 17:06:19  [ main-SendThread(losedream.com:2181):33898 ] - [ INFO ]  Unable to read additional data from server sessionid 0x1001e5fe5c30007, likely server has closed socket, closing socket connection and attempting reconnect
+2021-02-11 17:06:20  [ main-SendThread(losedream.com:2181):35563 ] - [ DEBUG ]  Got ping response for sessionid: 0x1001e5fe5c30007 after 14ms
+2021-02-11 17:06:21  [ main-SendThread(losedream.com:2181):35761 ] - [ INFO ]  Opening socket connection to server losedream.com/8.136.188.16:2181. Will not attempt to authenticate using SASL (unknown error)
+2021-02-11 17:06:21  [ main-SendThread(losedream.com:2181):35777 ] - [ INFO ]  Socket connection established to losedream.com/8.136.188.16:2181, initiating session
+2021-02-11 17:06:21  [ main-SendThread(losedream.com:2181):35777 ] - [ DEBUG ]  Session establishment request sent on losedream.com/8.136.188.16:2181
+2021-02-11 17:06:21  [ main-SendThread(losedream.com:2181):35792 ] - [ INFO ]  Unable to read additional data from server sessionid 0x1001e5fe5c30007, likely server has closed socket, closing socket connection and attempting reconnect
+2021-02-11 17:06:21  [ main-SendThread(losedream.com:2181):35792 ] - [ INFO ]  Session establishment complete on server losedream.com/8.136.188.16:2181, sessionid = 0x1001e5fe5c30007, negotiated timeout = 5000
+2021-02-11 17:06:22  [ main-SendThread(losedream.com:2181):37416 ] - [ INFO ]  Opening socket connection to server losedream.com/8.136.188.16:2181. Will not attempt to authenticate using SASL (unknown error)
+2021-02-11 17:06:22  [ main-SendThread(losedream.com:2181):37428 ] - [ INFO ]  Socket connection established to losedream.com/8.136.188.16:2181, initiating session
+2021-02-11 17:06:22  [ main-SendThread(losedream.com:2181):37428 ] - [ DEBUG ]  Session establishment request sent on losedream.com/8.136.188.16:2181
+2021-02-11 17:06:22  [ main-SendThread(losedream.com:2181):37443 ] - [ INFO ]  Session establishment complete on server losedream.com/8.136.188.16:2181, sessionid = 0x1001e5fe5c30007, negotiated timeout = 5000
+2021-02-11 17:06:22  [ main-SendThread(losedream.com:2181):37443 ] - [ INFO ]  Unable to read additional data from server sessionid 0x1001e5fe5c30007, likely server has closed socket, closing socket connection and attempting reconnect
+2021-02-11 17:06:23  [ main-SendThread(losedream.com:2181):38612 ] - [ INFO ]  Opening socket connection to server losedream.com/8.136.188.16:2181. Will not attempt to authenticate using SASL (unknown error)
+2021-02-11 17:06:24  [ main-SendThread(losedream.com:2181):38624 ] - [ INFO ]  Socket connection established to losedream.com/8.136.188.16:2181, initiating session
+2021-02-11 17:06:24  [ main-SendThread(losedream.com:2181):38625 ] - [ DEBUG ]  Session establishment request sent on losedream.com/8.136.188.16:2181
+2021-02-11 17:06:24  [ main-SendThread(losedream.com:2181):38644 ] - [ INFO ]  Unable to read additional data from server sessionid 0x1001e5fe5c30007, likely server has closed socket, closing socket connection and attempting reconnect
+2021-02-11 17:06:24  [ main-SendThread(losedream.com:2181):38644 ] - [ INFO ]  Session establishment complete on server losedream.com/8.136.188.16:2181, sessionid = 0x1001e5fe5c30007, negotiated timeout = 5000
